@@ -25,6 +25,7 @@ void handleEvent()
 
 int main()
 {
+	cout << "My name is pooyan! :)" << endl;
 	Graph g;
     g.make();
 
