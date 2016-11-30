@@ -15,6 +15,7 @@ void handleEvent()
         if (event.type == SDL_QUIT)
             __RUNNING = false;
 }
+//تنمتغغبتغفا
 
 //void make_primitive_graph(int shift)//ino khoobe ezafe koni be codet ke bad az dadan ras ha yalhaye avalie ro khodesh injoori besaze badesh baghiasho khodesh dasti bede
 //{
